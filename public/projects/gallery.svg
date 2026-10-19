@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 410"><defs><linearGradient id="b"><stop stop-color="#39224b"/><stop offset="1" stop-color="#1b1a34"/></linearGradient><linearGradient id="a" x2="0" y2="1"><stop stop-color="#f1ae84"/><stop offset="1" stop-color="#9e8bad"/></linearGradient><linearGradient id="c" x2="0" y2="1"><stop stop-color="#82b2b9"/><stop offset="1" stop-color="#d5a8aa"/></linearGradient></defs>
+<rect width="640" height="410" fill="url(#b)"/><rect x="39" y="35" width="562" height="340" rx="13" fill="#f9f7fa"/>
+<text x="60" y="69" font-family="Arial" font-size="20" font-weight="bold" fill="#4c3456">Moments.</text><text x="425" y="67" font-family="Arial" font-size="11" fill="#897490">Gallery    Explore    About</text>
+<text x="60" y="113" font-family="Arial" font-size="16" font-weight="bold" fill="#392d42">The image gallery</text><text x="60" y="130" font-family="Arial" font-size="10" fill="#83768a">A collection of visual stories</text>
+<clipPath id="r"><rect x="60" y="146" width="166" height="196" rx="10"/></clipPath><rect x="60" y="146" width="166" height="196" rx="10" fill="url(#a)"/><g clip-path="url(#r)"><circle cx="164" cy="199" r="35" fill="#f9ddbd"/><path d="M60 327l80-109 48 69 38-39v100H60Z" fill="#886994"/><path d="M60 320l68-76 62 74 36-33v63H60Z" fill="#615977"/></g>
+<clipPath id="s"><rect x="236" y="146" width="170" height="93" rx="10"/></clipPath><rect x="236" y="146" width="170" height="93" rx="10" fill="url(#c)"/><g clip-path="url(#s)"><circle cx="352" cy="180" r="17" fill="#f9e4c4"/><path d="M236 236l72-73 49 52 49-31v55H236Z" fill="#517b88"/></g>
+<rect x="416" y="146" width="163" height="93" rx="10" fill="#e7cbb1"/><circle cx="515" cy="178" r="21" fill="#f8edcb"/><path d="M416 236l59-52 45 42 33-33 26 43Z" fill="#ba927c"/>
+<rect x="236" y="249" width="163" height="93" rx="10" fill="#b5a0c9"/><circle cx="332" cy="279" r="20" fill="#eac5cf"/><path d="M236 336l58-53 46 46 28-34 31 41Z" fill="#796f9e"/>
+<rect x="409" y="249" width="170" height="93" rx="10" fill="#b4c8b8"/><circle cx="486" cy="275" r="18" fill="#f1e7be"/><path d="M409 338l57-59 60 46 25-22 28 35Z" fill="#6f998a"/>
+</svg>
